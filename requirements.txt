@@ -3,3 +3,6 @@ matplotlib
 scipy
 pandas
 seaborn
+preliz
+ipywidgets
+ipykernel
