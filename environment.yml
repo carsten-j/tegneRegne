@@ -1,0 +1,13 @@
+name: tegneRegne
+
+dependencies:
+  - python=3.11
+  - numpy
+  - scipy
+  - matplotlib
+  - pandas
+  - seaborn
+  - ipywidgets
+  - ipykernel
+  - pip:
+    - preliz
